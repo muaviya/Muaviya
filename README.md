@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim</h1>
-<h3 align="center">A passionate iOS developer from Russia</h3>
+<h3 align="center">iOS developer from Russia</h3>
 
 - 🔭 I’m currently working on [CT-Mobile iPad app](https://customertimes.com)
 
